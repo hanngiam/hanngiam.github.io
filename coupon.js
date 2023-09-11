@@ -7,5 +7,5 @@ cpnBtn.onclick = function(){
     setTimeout(function(){
         cpnBtn.innerHTML  = 'COPY CODE';
         }, 3000);
-    window.open(https://vaticpro.com/?sca_ref=3559290.eaFXOYkPjd','_blank');
+    window.open('https://vaticpro.com/?sca_ref=3559290.eaFXOYkPjd','_blank');
 }
